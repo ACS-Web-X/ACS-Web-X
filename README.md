@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ACS-Web-X
-- 👀 I’m interested in proliferating my recently invented Chess-driven Ai Programming Language (Chessware)
-- 🌱 I’m currently learning more ACS-Web-X Chesscryption and a more flexible model for Big Data Generation.
+- 👋 Hi, I’m @ACS-Web-X (The 1st Chess Intelligence Programming Language). This Chessware is Object-oriented and data-driven.
+- 👀 I’m interested in proliferating my recently invented Chess-driven Ai Software ( Most especially, the GENESIS111 Chessware).
+- 🌱 I’m currently learning more about how to integrate ACS-Web-X into some existing Programming Languages.
 - 💞️ I’m looking to collaborate on the global proliferation of the ACS-Web-X Program.
 - 📫 How to reach me: idodisanddat@gmail.com
