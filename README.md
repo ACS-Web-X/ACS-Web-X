@@ -2,4 +2,4 @@
 - 👀 I’m interested in proliferating my recently invented Chess-driven Ai Software (Most especially, the GENESIS111 Chessware). Right here on GitHub, I will like to work with some Scripters to develop a Plugin for some mobile/web gadgets ~ by integrating the ACS-Web-X Program into some existing Scripts, like; HTML, JavaScript, jQuery, AJAX, and perhaps etc. Here's a convincing MOVE to hint Netizens about the viability of this Chess-Knight-Horse-Logod App!
 - 🌱 I’m currently learning more about how to integrate ACS-Web-X into MORE existing Programming Languages.
 - 💞️ I’m looking to collaborate on the global proliferation of the ACS-Web-X Program.
-- 📫 How to reach me: idodisanddat(at)GMAIL(dot)COM
+- 📫 How to reach me: idodisanddat[at]GMAIL[dot]COM
