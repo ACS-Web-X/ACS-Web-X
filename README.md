@@ -2,4 +2,4 @@
 - 👀 I’m interested in proliferating my recently invented Chess-driven Ai Software ( Most especially, the GENESIS111 Chessware).
 - 🌱 I’m currently learning more about how to integrate ACS-Web-X into some existing Programming Languages.
 - 💞️ I’m looking to collaborate on the global proliferation of the ACS-Web-X Program.
-- 📫 How to reach me: idodisanddat@gmail.com
+- 📫 How to reach me: idodisanddat(at)gmail(dot)com
