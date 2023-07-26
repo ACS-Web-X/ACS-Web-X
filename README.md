@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @ACS-Web-X (The 1st Chess Intelligence Programming Language). This Chessware is Object-oriented and data-driven.
-- 👀 I’m interested in proliferating my recently invented Chess-driven Ai Software ( Most especially, the GENESIS111 Chessware).
-- 🌱 I’m currently learning more about how to integrate ACS-Web-X into some existing Programming Languages.
+- 👋 Hi, I’m @ACS-Web-X (The 1st Chess Intelligence Programming Language). This Chessware is Object-oriented and Data-driven (Infinite Chess Data, Geo-Data, AlphaNum Data, MultiaLingual Data, and perhaps etc. Data). My motto is Less Codes! More Actions!
+- 👀 I’m interested in proliferating my recently invented Chess-driven Ai Software ( Most especially, the GENESIS111 Chessware). Right here on GitHub, I will like to work with some Scripters to develop a Plugin for a mobile/web gadgets ~ by integrating the ACS-Web-X Program into some existing Scripts like HTML, JavaScript, jQuery, AJAX, and perhaps etc.
+- 🌱 I’m currently learning more about how to integrate ACS-Web-X into MORE existing Programming Languages.
 - 💞️ I’m looking to collaborate on the global proliferation of the ACS-Web-X Program.
-- 📫 How to reach me: idodisanddat(at)gmail(dot)com
+- 📫 How to reach me: idodisanddat(at)GMAIL(dot)COM
